@@ -1,30 +1,31 @@
-## 👋 Hola, soy Alejandro Soriano
+## 👋 Hi, I'm Alejandro Soriano
 
-### 👨‍💻 Sobre mí
-Soy un estudiante de ingeniería de software y autodidacta apasionado por la tecnología y el aprendizaje continuo. Actualmente, estoy enfocado en mejorar mis habilidades en Java y tengo un fuerte interés en aprender Python y JavaScript. Disfruto explorando nuevas tecnologías y aplicándolas en proyectos personales.
+### 👨‍💻 About Me
+I'm a software engineering student and self-taught enthusiast passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Java and have a strong interest in learning Python and JavaScript. I enjoy exploring new technologies and applying them in personal projects.
 
-### 🔧 Tecnologías y Herramientas
-- **Lenguajes de Programación:** Java (aprendiendo), Python (interés), JavaScript (interés)
+### 🔧 Technologies and Tools
+- **Programming Languages:** Java (learning), Python (interest), JavaScript (interest)
 - **Web:** HTML, CSS
-- **Bases de Datos:** SQL
+- **Databases:** SQL
 
-### 🌟 Proyectos Destacados
-- **[Java-0-to-Hero](enlace al repositorio):** Un proyecto en el que estoy trabajando para documentar mi viaje de aprendizaje en Java, desde los conceptos básicos hasta niveles más avanzados. 
+### 🌟 Featured Projects
+- **[Java-0-to-Hero](https://github.com/Alejosor/Java_0_to_Hero):** A project where I'm documenting my journey learning Java, from basic concepts to more advanced levels.
 
-### 🎓 Educación
-- Estudiante de Ingeniería de Software
+### 🎓 Education
+- Software Engineering Student
 
-### 📚 Autoaprendizaje
-- Actualmente estudiando Java
-- Próximos en la lista: Python y JavaScript
+### 📚 Self-learning
+- Currently studying Java
+- Next up: Python and JavaScript
 
-### 📫 Contacto
-- **Correo Electrónico:** [alejandrosoriano@example.com]
-- **LinkedIn:** [Alejandro Soriano](https://www.linkedin.com/in/alejandrosoriano)
-- **Twitter:** [@AlejandroS](https://twitter.com/AlejandroS)
+### 📫 Contact
+- **Email:** [alejandrosoriano@example.com]
+- **LinkedIn:** [Alejandro Soriano Palomino ](www.linkedin.com/in/alejandro-soriano-palomino)
+- **Twitter:** [@AlejandroS]([https://twitter.com/AlejandroS](https://twitter.com/alejosordev))
 
-### 🎯 Otros Intereses
-Fuera del desarrollo de software, me apasiona el aprendizaje autodidacta y siempre estoy buscando nuevos desafíos para mejorar mis habilidades.
+### 🎯 Other Interests
+Outside of software development, I'm passionate about self-directed learning and always seeking new challenges to improve my skills.
+
 
 <!--
 **Alejosor/alejosor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
