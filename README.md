@@ -21,7 +21,7 @@ I'm a software engineering student and self-taught enthusiast passionate about t
 ### 📫 Contact
 - **Email:** [alejandrosoriano@example.com]
 - **LinkedIn:** [Alejandro Soriano Palomino ](www.linkedin.com/in/alejandro-soriano-palomino)
-- **Twitter:** [@alejosordev]([https://twitter.com/AlejandroS](https://twitter.com/alejosordev))
+- **Twitter:** [@alejosordev](https://twitter.com/alejosordev)
 
 ### 🎯 Other Interests
 Outside of software development, I'm passionate about self-directed learning and always seeking new challenges to improve my skills.
