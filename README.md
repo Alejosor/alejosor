@@ -3,6 +3,9 @@
 ### 👨‍💻 About Me
 I'm a software engineering student and self-taught enthusiast passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Java and have a strong interest in learning Python and JavaScript. I enjoy exploring new technologies and applying them in personal projects.
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Alejosor&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ### 🔧 Technologies and Tools
 - **Programming Languages:** Java (learning), Python (interest), JavaScript (interest)
 - **Web:** HTML, CSS
@@ -19,7 +22,6 @@ I'm a software engineering student and self-taught enthusiast passionate about t
 - Next up: Python and JavaScript
 
 ### 📫 Contact
-- **Email:** [alejandrosoriano@example.com]
 - **LinkedIn:** [Alejandro Soriano Palomino ](www.linkedin.com/in/alejandro-soriano-palomino)
 - **Twitter:** [@alejosordev](https://twitter.com/alejosordev)
 
