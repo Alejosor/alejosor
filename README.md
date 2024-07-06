@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Alejandro Soriano👾
+## 👋 Hi, I'm Alejosor👾
 
 ### 👨‍💻 About Me
 I'm a software engineering student and self-taught enthusiast passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Java and have a strong interest in learning Python and JavaScript. I enjoy exploring new technologies and applying them in personal projects.
