@@ -3,8 +3,17 @@
 ### 👨‍💻 About Me
 I'm a software engineering student and self-taught enthusiast passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Java and have a strong interest in learning Python and JavaScript. I enjoy exploring new technologies and applying them in personal projects.
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Alejosor&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=cobalt2"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" />
+</picture>
 
 ### 📚 Self-learning
 - **Learning:**<br/>
