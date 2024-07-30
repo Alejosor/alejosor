@@ -29,7 +29,12 @@ I'm a software engineering student and self-taught enthusiast passionate about t
 [![My Skills](https://skillicons.dev/icons?i=html,css,sqlite,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🌟 Featured Projects
-- **[Java-0-to-Hero](https://github.com/Alejosor/Java_0_to_Hero):** A collaborative project where I'm documenting my journey learning Java, from basic concepts to more advanced levels. In this project, you can find material, explanations and exercises.
+- ***[Java-0-to-Hero](https://github.com/Alejosor/Java_0_to_Hero):*** A collaborative project where I'm documenting my journey learning Java, from basic concepts to more advanced levels. In this project, you can find material, explanations and exercises.
+>[!IMPORTANT]
+> ### 📅 Repository Updates
+> Keep track of the latest updates in the **Java-0-to-Hero** repository:
+> - **Clase #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/tree/main/Clases/Clase%205%20-%20Conversiones)
+> - **Ejercicio #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/blob/main/Ejercicios/Ejercicio%205/ejercicio5.md)
 
 ### 📫 Contact
 - **LinkedIn:** [Alejandro Soriano Palomino ](www.linkedin.com/in/alejandro-soriano-palomino)
