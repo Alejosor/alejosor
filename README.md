@@ -1,44 +1,47 @@
-## 👋 Hi, I'm Alejosor👾
+# 👋 Hi, I'm Alejosor👾
 
-### 👨‍💻 About Me
-I'm a software engineering student and self-taught enthusiast passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Java and have a strong interest in learning Python and JavaScript. I enjoy exploring new technologies and applying them in personal projects.
+```rust
+public class Main {
+    public static void main(String[] args) {
+        String name = "ALejandro Soriano";
+        String acknowledgements = "Software Engineering Student";
+        String location = "Chiclayo, Peru";
+    }
+}
+```
+<!--Github Streak-->
+<div align="center">
+  <picture>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Alejosor&theme=cobalt2" alt="GitHub Streak Stats" />
+  </picture>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=cobalt2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" />
-</picture>
+<br>
 
-### 📚 Self-learning
-- **Learning:**<br/>
+<div align="center">
+  <!--Github stats-->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=cobalt2" 
+      media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" />
+  </picture>
+  <!--Github langs-->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&theme=cobalt2&layout=compact"
+      media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&show_icons=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&show_icons=true&layout=compact" />
+  </picture>
+</div>
 
-  [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-- **Interest:**<br/>
-
-  [![My Skills](https://skillicons.dev/icons?i=py,js&theme=dark)](https://skillicons.dev)
-  
-### 💻 Tech Stack 
-#### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sqlite,git,github&theme=dark)](https://skillicons.dev)
-
-### 🌟 Featured Projects
-- ***[Java-0-to-Hero](https://github.com/Alejosor/Java_0_to_Hero):*** A collaborative project where I'm documenting my journey learning Java, from basic concepts to more advanced levels. In this project, you can find material, explanations and exercises.
->[!IMPORTANT]
-> ### 📅 Repository Updates
-> Keep track of the latest updates in the **Java-0-to-Hero** repository:
-> - **Clase #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/tree/main/Clases/Clase%205%20-%20Conversiones)
-> - **Ejercicio #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/blob/main/Ejercicios/Ejercicio%205/ejercicio5.md)
-
-### 📫 Contact
-- **LinkedIn:** [Alejandro Soriano Palomino ](www.linkedin.com/in/alejandro-soriano-palomino)
-- **Twitter:** [@alejosordev](https://twitter.com/alejosordev)
+# 📫 Contact
+<div align="center">
+  <a href="www.linkedin.com/in/alejandro-soriano-palomino" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.instagram.com/diegxcp/" target="_blank"><img height="30px" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt=""></a>
+</div>
 
 <!--
 **Alejosor/alejosor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
