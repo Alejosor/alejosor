@@ -39,8 +39,12 @@ public class Main {
 
 # 📫 Contact
 <div align="center">
-  <a href="www.linkedin.com/in/alejandro-soriano-palomino" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="https://www.instagram.com/diegxcp/" target="_blank"><img height="30px" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt=""></a>
+  <a href="https://www.linkedin.com/in/alejandro-soriano-palomino" target="_blank">
+    <img height="30px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/alejosordev" target="_blank">
+    <img height="30px" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Perfil en X (Twitter)">
+  </a>
 </div>
 
 <!--
