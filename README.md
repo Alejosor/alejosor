@@ -10,41 +10,39 @@ public class Main {
 }
 ```
 <!--Github Streak-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="Center">Streaks</h3>
 <div align="center">
-  <picture>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Alejosor&theme=cobalt2" alt="GitHub Streak Stats" />
-  </picture>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=nightowl" alt=steeltroops-ai />
+
+<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
+
 </div>
 
-<br>
+<!--Github stats-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="center">Statistics</h3>
 <div align="center">
-  <!--Github stats-->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=cobalt2" 
-      media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true" />
-  </picture>
-  <!--Github langs-->
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&theme=cobalt2&layout=compact"
-      media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&show_icons=true&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&show_icons=true&layout=compact" />
-  </picture>
+<a href="https://github.com/steeltroops-ai">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alejosor&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=nightowl" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=nightowl" height="176em" />
 </div>
 
-# 📫 Contact
+<!--Connect with me-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/alejandro-soriano-palomino" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<h3>Connect with me:<h3>
+  <a href="https://www.linkedin.com/in/alejandro-soriano-palomino/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/alejosordev" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Perfil en X (Twitter)">
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 </div>
 
 <!--
