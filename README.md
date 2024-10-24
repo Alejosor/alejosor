@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alejosor👾
+# Hi, I'm Alejosor👾
 
 ```rust
 public class Main {
@@ -9,6 +9,14 @@ public class Main {
     }
 }
 ```
+### 👋 About Me:
+I'm a software engineering student and a self-taught enthusiast, passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Python, with a strong interest in learning Java and JavaScript. I enjoy exploring new technologies and applying them to personal projects.
+- 🌱 I’m currently learning:  
+  - Machine Learning  
+  - Python for AI Development  
+- ⚡ Fun fact: I believe that imagination is the first step towards innovation.  
+
+
 <!--Github Streak-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
