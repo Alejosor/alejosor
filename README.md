@@ -14,9 +14,9 @@ public class Main {
 
 <h3 align="Center">Streaks</h3>
 <div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=nightowl" alt=steeltroops-ai />
+<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=nightowl" alt=steeltroops-ai />
 
-<img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
+<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
 
 </div>
 
