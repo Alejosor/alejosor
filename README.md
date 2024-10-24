@@ -26,11 +26,11 @@ public class Main {
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/steeltroops-ai">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alejosor&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=nightowl" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=nightowl" height="176em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alejosor&theme=nightowl" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=nightowl" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=nightowl" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=nightowl" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=nightowl" height="146em" />
 </div>
 
 <!--Connect with me-->
