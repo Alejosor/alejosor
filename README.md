@@ -35,7 +35,7 @@ I'm a software engineering student and a self-taught enthusiast, passionate abou
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/steeltroops-ai">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alejosor&theme=nightowl" height="150em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=nightowl" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=nightowl" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=nightowl" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=nightowl" height="150em" />
