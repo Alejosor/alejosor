@@ -24,7 +24,8 @@ I'm a software engineering student and a self-taught enthusiast, passionate abou
 <div align="center">
 <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=nightowl" alt=steeltroops-ai />
 
-<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
+<img  height="150em" src="https://streak-stats.demolab.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
+
 
 </div>
 
