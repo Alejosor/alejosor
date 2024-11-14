@@ -22,9 +22,9 @@ I'm a software engineering student and a self-taught enthusiast, passionate abou
 
 <h3 align="Center">Streaks</h3>
 <div align="center">
-<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=nightowl" alt=steeltroops-ai />
+<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=tokyonight" alt=Alejosor />
 
-<img  height="150em" src="https://streak-stats.demolab.com/?user=Alejosor&theme=nightowl" alt="steeltroops-ai" />
+<img  height="150em" src="https://streak-stats.demolab.com/?user=Alejosor&theme=tokyonight" alt="Alejosor" />
 
 
 </div>
@@ -35,11 +35,11 @@ I'm a software engineering student and a self-taught enthusiast, passionate abou
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Alejosor">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=nightowl" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=nightowl" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=nightowl" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=nightowl" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=nightowl" height="146em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=tokyonight&hide_border=true" height="150em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=tokyonight" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=tokyonight" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=tokyonight" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=tokyonight" height="146em" />
 </div>
 
 <!--Connect with me-->
