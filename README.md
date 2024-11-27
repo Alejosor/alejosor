@@ -6,6 +6,7 @@ public class Main {
         String name = "ALejandro Soriano";
         String acknowledgements = "Software Engineering Student";
         String location = "Chiclayo, Peru";
+        String quote = "Do hard things!! Do More!!";
     }
 }
 ```
