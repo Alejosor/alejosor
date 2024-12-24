@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         String name = "ALejandro Soriano";
         String acknowledgements = "Software Engineering Student";
-        String location = "Chiclayo, Peru";
+        String location = "Peru";
         String quote = "Ad astra per aspera";
     }
 }
