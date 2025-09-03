@@ -7,65 +7,45 @@ public class Main {
         String nickname = "Alejosor";
         String acknowledgements = "Software Engineering Student";
         String location = "Peru";
-        String quote = "Ad astra per aspera";
     }
 }
 ```
-### 👋 About Me:
-I'm a software engineering student and a self-taught enthusiast, passionate about technology and continuous learning. Currently, I'm focused on enhancing my skills in Python, with a strong interest in learning Java and JavaScript. I enjoy exploring new technologies and applying them to personal projects.
-- 🌱 I’m currently learning:  
-  - Python🐍  
-- ⚡ Fun fact: I believe that imagination is the first step towards innovation.  
+
+### 👨🏻‍💻 &nbsp;About Me
+
+🔭 &nbsp;I enjoy exploring new technologies.  \
+🌱 &nbsp;Currently learning and building with Python, Java, and Swift. \
+✨ &nbsp;I love creating projects and learning what’s needed to achieve my goals.\
+💬 &nbsp;Open to collaboration and feedback. \
+📫 &nbsp;You can reach me at: [alejandrosoriano.pe@gmail.com](mailto:alejandrosoriano.pe@gmail.com) 
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;\
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)&nbsp;\
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;\
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)&nbsp;\
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;\
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 
-<!--Github Streak-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 📊 &nbsp;GitHub Analytics
 
-<h3 align="Center">Streaks</h3>
-<div align="center">
-<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&theme=tokyonight" alt=Alejosor />
+<p align="center">
+<a href="https://github.com/alejosor/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejosor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejosor&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
 
-<img  height="150em" src="https://streak-stats.demolab.com/?user=Alejosor&theme=tokyonight" alt="Alejosor" />
+### 🤝🏻 &nbsp;Contact with Me
 
-
-</div>
-
-<!--Github stats-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Alejosor">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&theme=tokyonight&hide_border=true" height="150em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alejosor&theme=tokyonight" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alejosor&theme=tokyonight" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alejosor&theme=tokyonight" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alejosor&theme=tokyonight" height="146em" />
-</div>
-
-<!--Connect with me-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-<h3>Connect with me:<h3>
-  <a href="https://www.linkedin.com/in/alejandro-soriano-palomino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/alejosordev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-</div>
-
-<!--
-**Alejosor/alejosor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/alejandro-soriano-palomino/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alejandrosoriano.pe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-e00303?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com/_AlejoSoriano"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)"/></a>
