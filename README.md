@@ -37,11 +37,11 @@ public class Main {
 ### 📊 &nbsp;GitHub Analytics
 
 
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejosor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejosor&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</p>
-<br clear="both"/>
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejosor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejosor&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</div>
 
 ### 🤝🏻 &nbsp;Contact with Me
 
