@@ -36,10 +36,16 @@ public class Main {
 
 ### 📊 &nbsp;GitHub Analytics
 
-<p align="center">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejosor&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejosor&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
-</p>
+<div align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejosor&show_icons=true&count_private=true&hide_border=true&rank_icon=default&theme=one_dark_pro" align="center" /> 
+  <source align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: dark)" />
+  <source align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejosor&layout=compact&langs_count=8&theme=one_dark_pro" align="center"/>
+</div> 
 
 ### 🤝🏻 &nbsp;Contact with Me
 
